@@ -12,7 +12,6 @@ import javax.json.JsonReader;
 
 public class GoEuroLocationFinder implements LocationFinder {
 	private LocationResource resource;
-
 	
 	public GoEuroLocationFinder(LocationResource resource) {
 		super();
@@ -50,5 +49,4 @@ public class GoEuroLocationFinder implements LocationFinder {
 		
 		return location;
 	}
-
 }
