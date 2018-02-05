@@ -1,6 +1,6 @@
 # GoEuro Java Developer Test
 
-This is my solution of GoEuro Java Developer Test.
+This is my solution of GoEuro Java Developer Test. The task lisnk is https://github.com/goeuro/dev-test
 
 The executable goeuro-0.0.1-jar-with-dependencies.jar should be executed like this:
 
